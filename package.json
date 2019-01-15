@@ -1,0 +1,23 @@
+{
+  "name": "adoberequest",
+  "version": "1.0.0",
+  "description": "low level library that enables the creation of a valid Adobe Analytics request",
+  "main": "src/AdobeRequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVDAMME/AdobeRequest.git"
+  },
+  "keywords": [
+    "adobe",
+    "analytics"
+  ],
+  "author": "JVDAMME",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JVDAMME/AdobeRequest/issues"
+  },
+  "homepage": "https://github.com/JVDAMME/AdobeRequest#readme"
+}
