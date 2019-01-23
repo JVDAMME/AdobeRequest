@@ -81,8 +81,7 @@
       //dynamically construct the base url upon access, cannot be set
       Object.defineProperty(this, "baseUrl", {
         get: function() {
-          return [
-            "https://",
+          return "https://"+[
             this.settings.reportserver,
             "b",
             "ss",
